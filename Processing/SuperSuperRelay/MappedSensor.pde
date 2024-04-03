@@ -2,7 +2,7 @@
 public class MappedSensor {
   //Required at construction
   public String ipAddress;
-  public float delay = 350;
+  public float delay = 320;
   //Set after the fact
   public int sensorMin;
   public int sensorMax;

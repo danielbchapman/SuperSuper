@@ -37,7 +37,7 @@ void setup() {
   oscP5 = new OscP5(this, OSC_INCOMING_ARDUINO);
  
   //We assume QLab is running on the same machine so it is faster. Don't be slower, the delay is 200ms as is.
-  qlab = new NetAddress("127.0.0.1", 52000);
+  qlab = new NetAddress("127.0.0.1", 53000);
 }
 
 /**
