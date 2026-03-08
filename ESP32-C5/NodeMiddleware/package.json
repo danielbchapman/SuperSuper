@@ -1,0 +1,12 @@
+{
+  "name": "SuperSuper-Middleware",
+  "version": "0.0.1",
+  "description": "Middleware for the SuperSuper 5Ghz Project",
+  "main": "index.js",
+  "author": "Daniel B. Chapman",
+  "license": "GPLv3",
+  "private": true,
+  "dependencies": {
+    "chalk": "^5.6.2"
+  }
+}
